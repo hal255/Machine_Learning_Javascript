@@ -57,3 +57,6 @@ typings/
 # dotenv environment variables file
 .env
 
+# MS Code files
+*.code-workspace
+src/.vscode
